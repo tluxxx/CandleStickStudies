@@ -22,7 +22,7 @@ In this repository I will collect some studies on candle-stick patterns. The pri
     * Rigorous statistical testing for:
       * Mean cumulative returns after a pattern signal vs. mean cumulative returns after random entries
       * Win rate after a pattern signal vs. win rate after random entries
-  * The content of the notebook was published in the blog xxxxxxxxxx
+  * The content of the notebook was published in the blog https://medium.com/@Tobi_Lux/on-the-predictive-power-of-candlestick-patterns-a-follow-up-experiment-609829bb405e
   
 * 01_candlestick_studies_test_for_equal_means:
   * The notebook performs different statistical tests for equal means on model distributions (Gamma distribution, exponential distribution).
