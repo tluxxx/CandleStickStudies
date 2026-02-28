@@ -13,7 +13,7 @@ In this repository I will collect some studies on candle-stick patterns. The pri
     * comparison trading of most profitable candlestick patterns with trading, based on completely random entries; statistical tests of return distributions
   * The content of the notebook was published in the blog: https://medium.com/@Tobi_Lux/on-predictive-power-of-candlestick-patterns-in-stock-trading-an-experiment-d71dd92b4b27
 * 01_candlestick_studies_predictive_power_updated_02.ipynb
- * Topics are: 
+  * Topics are: 
     * Analyzing S&P 500 data from 2000 to 2025 for candlestick patterns using TA-Lib, generating bullish and bearish pattern signals
     * Introducing a simple EMA-based trend filter (and studying the impact)
     * Counting bullish/bearish signals and identifying the most active patterns
@@ -22,8 +22,8 @@ In this repository I will collect some studies on candle-stick patterns. The pri
     * Rigorous statistical testing for:
       * Mean cumulative returns after a pattern signal vs. mean cumulative returns after random entries
       * Win rate after a pattern signal vs. win rate after random entries
-   * The content of the notebook was published in the blog xxxxxxxxxx
+  * The content of the notebook was published in the blog xxxxxxxxxx
   
 * 01_candlestick_studies_test_for_equal_means:
-   * The notebook perfrms different statistical teas for equal means on model distributions (Gamm-Distribution, exponential distribution
-   * * Focus is the explanation of the permutation test and the codeing of the test using different methods (from direct loops to vectorisation, further speed optimisation until a fully fledged numbe version of the code that ist ultra fast. The lase version is also used in the notebok: 01_ candlestick_studies_predictive_power_updated_01.ipynb    
+  * The notebook perfrms different statistical teas for equal means on model distributions (Gamm-Distribution, exponential distribution
+  * Focus is the explanation of the permutation test and the codeing of the test using different methods (from direct loops to vectorisation, further speed optimisation until a fully fledged numbe version of the code that ist ultra fast. The lase version is also used in the notebok: 01_ candlestick_studies_predictive_power_updated_01.ipynb    
