@@ -2,8 +2,8 @@
 In this repository I will collect some studies on candle-stick patterns. The principal content of the notebooks is as follows: 
 * candlestick_studies_00_talib.ipynb:
   * In this noteboook we will demonstrate how to use the library TA-Lib to detect candlestick-patterns in stock data (using Colab).
-  * see blog https://medium.com/@Tobi_Lux/using-ta-lib-for-detecting-candle-stick-patterns-in-stock-prices-04384dcbe8ab for details NOTE: meanwhile TA-Lib has moved to GitHub. This enables a much cleaner approach, see notebook: 01_candlestick_studies_predictive_power_updated_01.ipynb
-* 01_candlestick_studies_01_predictive_power.ipynb:
+  * see blog https://medium.com/@Tobi_Lux/using-ta-lib-for-detecting-candle-stick-patterns-in-stock-prices-04384dcbe8ab for details NOTE: meanwhile TA-Lib has moved to GitHub. This enables a much cleaner approach, the notebook was therefore adapted. 
+* 01_candlestick_studies_predictive_power_01.ipynb:
   * Topics of the study are:
     * frequency of occurance of candlestick-patterns in real stock data (S&P-500 index from 2000 to mid 2024)
     * identification of the "most-active"-patterns (by highest number of occurences)
@@ -12,4 +12,8 @@ In this repository I will collect some studies on candle-stick patterns. The pri
     * analysing distribution of returns over time, test for normality
     * comparison trading of most profitable candlestick patterns with trading, based on completely random entries; statistical tests of return distributions
   * The content of the notebook was published in the blog: https://medium.com/@Tobi_Lux/on-predictive-power-of-candlestick-patterns-in-stock-trading-an-experiment-d71dd92b4b27
-27  
+* 01_candlestick_studies_predictive_power_updated_01.ipynb
+ * XXXXx
+ * XXXX
+ * XXXX
+ * * was published under : XXXXX*  
