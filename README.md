@@ -25,5 +25,5 @@ In this repository I will collect some studies on candle-stick patterns. The pri
   * The content of the notebook was published in the blog xxxxxxxxxx
   
 * 01_candlestick_studies_test_for_equal_means:
-  * The notebook perfrms different statistical teas for equal means on model distributions (Gamm-Distribution, exponential distribution
-  * Focus is the explanation of the permutation test and the codeing of the test using different methods (from direct loops to vectorisation, further speed optimisation until a fully fledged numbe version of the code that ist ultra fast. The lase version is also used in the notebok: 01_ candlestick_studies_predictive_power_updated_01.ipynb    
+  * The notebook performs different statistical tests for equal means on model distributions (Gamma distribution, exponential distribution).
+  * Focus is the explanation of the permutation test and the coding of the test using different methods (from direct loops to vectorization, further speed optimization up to a fully fledged Numba version of the code that is ultra fast). The last version is also used in the notebook: 01_candlestick_studies_predictive_power_updated_01.ipynb   
